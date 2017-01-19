@@ -1,0 +1,16 @@
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\obj\Debug\CRMEducacuibal.BinarySearh.Test.dll
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\obj\Debug\CRMEducacuibal.BinarySearh.Test.pdb
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.Test.dll
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.Test.pdb
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.exe
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.pdb
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh.Test\obj\Debug\CRMEducacuibal.Teste1.Test.csprojResolveAssemblyReference.cache
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.Test.dll
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.Test.pdb
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.exe
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\bin\Debug\CRMEducacuibal.BinarySearh.pdb
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\obj\Debug\CRMEducacuibal.Teste1.Test.csprojResolveAssemblyReference.cache
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\obj\Debug\CRMEducacuibal.BinarySearh.Test.dll
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.BinarySearh.Test\obj\Debug\CRMEducacuibal.BinarySearh.Test.pdb

@@ -1,0 +1,12 @@
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.Teste2\bin\Debug\CRMEducacuibal.Teste2.exe.config
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.Teste2\bin\Debug\CRMEducacuibal.Teste2.exe
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.Teste2\bin\Debug\CRMEducacuibal.Teste2.pdb
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.Teste2\obj\Debug\CRMEducacuibal.Teste2.csprojResolveAssemblyReference.cache
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.Teste2\obj\Debug\CRMEducacuibal.Teste2.exe
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.Teste2\obj\Debug\CRMEducacuibal.Teste2.pdb
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.Teste2\bin\Debug\CRMEducacuibal.Teste2.exe.config
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.Teste2\obj\Debug\CRMEducacuibal.Teste2.exe
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.Teste2\obj\Debug\CRMEducacuibal.Teste2.pdb
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.Teste2\bin\Debug\CRMEducacuibal.Teste2.exe
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.Teste2\bin\Debug\CRMEducacuibal.Teste2.pdb
+C:\Robson\Dev\CRMEducacional\CRMEducacuibal.Teste2\obj\Debug\CRMEducacuibal.Teste2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh\bin\Debug\CRMEducacuibal.BinarySearh.exe.config
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh\bin\Debug\CRMEducacuibal.BinarySearh.exe
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh\bin\Debug\CRMEducacuibal.BinarySearh.pdb
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh\obj\Debug\CRMEducacuibal.BinarySearh.csprojResolveAssemblyReference.cache
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh\obj\Debug\CRMEducacuibal.BinarySearh.exe
+C:\Robson\Dev\CRMEducacuibal.BinarySearh\CRMEducacuibal.BinarySearh\obj\Debug\CRMEducacuibal.BinarySearh.pdb
